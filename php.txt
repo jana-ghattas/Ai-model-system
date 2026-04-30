@@ -1,0 +1,11 @@
+-- Insert optimal settings for Basil
+INSERT INTO `plants_data` (`plant_name`, `temperature`, `humidity`, `soil_moisture`, `light`) 
+VALUES ('Basil', 22.0, 65.0, 60.0, 15400);
+
+-- Insert optimal settings for Stevia
+INSERT INTO `plants_data` (`plant_name`, `temperature`, `humidity`, `soil_moisture`, `light`) 
+VALUES ('Stevia', 23.5, 50.0, 60.0, 6000);
+
+-- Insert optimal settings for Spinach
+INSERT INTO `plants_data` (`plant_name`, `temperature`, `humidity`, `soil_moisture`, `light`) 
+VALUES ('Spinach', 20.0, 70.0, 70.0, 65000);
